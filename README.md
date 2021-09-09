@@ -1,14 +1,20 @@
-## Commonsense based Sarcasm detection
+# Sarcasm detection Using Commonsense 
 
-Depedencies:
+Implementation for the paper "__*Does Commonsense help in detecting Sarcasm?*__", published at [Insights from Negative Results in NLP](https://insights-workshop.github.io/2021/cfp/) workshop, EMNLP 2021.
 
-transformers v3.0
-dgl
-torch
-sklearn
+Authors: [Somnath Basu Roy Chowdhury](https://www.cs.unc.edu/~somnath/) and [Snigdha Chaturvedi](https://sites.google.com/site/snigdhac/)
 
+## Pre-requisites
 
-### Usage
+```
+# create a clean conda env
+conda create -n commonsense-sarcasm python==3.8 
+source activate commonsense-sarcasm
+
+pip install -r requirements.txt
+```
+
+## Steps:
 
 1. Generate the data using the CreateDataset python notebook
 2. Change in the config and dataset name in Baseline notebook to run and save the baseline model.
