@@ -1,6 +1,6 @@
 # Sarcasm detection Using Commonsense 
 
-Implementation for the paper "__*Does Commonsense help in detecting Sarcasm?*__", published at [Insights from Negative Results in NLP](https://insights-workshop.github.io/2021/cfp/) workshop, EMNLP 2021.
+Implementation for the paper "__*[Does Commonsense help in detecting Sarcasm?](https://arxiv.org/abs/2109.08588)*__", published at [Insights from Negative Results in NLP](https://insights-workshop.github.io/2021/cfp/) workshop, EMNLP 2021.
 
 Authors: [Somnath Basu Roy Chowdhury](https://www.cs.unc.edu/~somnath/) and [Snigdha Chaturvedi](https://sites.google.com/site/snigdhac/)
 
