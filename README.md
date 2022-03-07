@@ -22,3 +22,19 @@ Install COMET (trained on ATOMIC) package using the instructions provided in the
 2. Change in the config and dataset name in Baseline notebook to run and save the baseline model.
 3. Run the commonsense infused model in the GCNModel notebook
 
+## Citation
+
+```
+@inproceedings{basu-roy-chowdhury-chaturvedi-2021-commonsense,
+    title = "Does Commonsense help in detecting Sarcasm?",
+    author = "Basu Roy Chowdhury, Somnath  and
+      Chaturvedi, Snigdha",
+    booktitle = "Proceedings of the Second Workshop on Insights from Negative Results in NLP",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.insights-1.2",
+    doi = "10.18653/v1/2021.insights-1.2",
+}
+```
