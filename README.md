@@ -14,6 +14,8 @@ source activate commonsense-sarcasm
 pip install -r requirements.txt
 ```
 
+Install COMET (trained on ATOMIC) package using the instructions provided in the following repository - [https://github.com/vered1986/comet-commonsense](https://github.com/vered1986/comet-commonsense).
+
 ## Steps:
 
 1. Generate the data using the CreateDataset python notebook
